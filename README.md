@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aman 
+- 👋 Hi, I’m @Aman 
 - 👀 I’m interested in codding 
 - 🌱 I’m currently learning fulstack web developing 
 - 💞️ I’m looking to collaborate on any project that is on HTML,CSS,JQUERY
